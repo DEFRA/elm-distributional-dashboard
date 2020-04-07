@@ -1,2 +1,2 @@
-# elm-distributional-dashboard
-ELM distributional dashboard
+# elm-eda
+ELM exploratory analyses
